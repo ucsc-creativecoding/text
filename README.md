@@ -44,4 +44,6 @@ When we used the file as input to the algorithm, the result was the following:
         desert rather than the deciding ambiguity with process that can be approach to make a fee
         for about the materials were perspective to specific designs which the particularly enclu
  
- 
+The output wasn't very successful. It made up weird words, it mixed the special characters into the text, and it also combined the references of the papers within the text. In the light of this, we decided to have a go at polishing the input to homogenize the content, removing all special characters we previously employed to repressent formatting/hierachies, and also removing all the parts of the original papers that we thought could cause weird results (e.g. list of references, formatted quotes, etc.). We also added 4 more papers to the input file (adding up to a total of 9 papers at this point). Below is a screenshot of how the revised input file looked like:
+
+

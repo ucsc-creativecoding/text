@@ -121,4 +121,9 @@ Here the results were slightly better. There were no weird characters in-text, f
  
 While the result was somehow better than the previous attempts (no special characters, more cohesive structure), it is by no means optimal. Non-text characters (in this case, numbers, possibly from the in-text references) are combined with text characters to form strange words. Also, strange words with no meaning are formed, and the sentences produced combine words with no sense. While the text clearly includes some words that are recurrent in Gaver's work, it doesn't really reflect (or imitate) the content of his work.
 
+# Model
+We used keras LSTM in character level
+
 # How to use the code
+python predict.py to generate new text
+

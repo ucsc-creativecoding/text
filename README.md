@@ -128,5 +128,6 @@ We used keras LSTM in character level
 
 # How to use the code
 python lstm_text_generation.py to train new dataset
+
 python predict.py to generate new text
 
